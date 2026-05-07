@@ -4,6 +4,11 @@ systems cat but better
 group mates: Jaxon Beaman , Chase Turner (Zia) , Cameron Wregg , Jake Burch
 this is for my Systems CAT (but better), im not exactly sure if i can use Github as my portfolio, but this is for progress log currently
 
+# Parameters in consideration
+- material access (part list and material access sections)
+- constraints and considerations
+- 
+
 # constraints and considerations:
 constraints:
 - budget of $50 per group (im not sure)
@@ -36,6 +41,12 @@ win the compertition
 - motors for lifting mechanism x4 12,000 : rpm motor from storage
 - batteries
 - main shaft for the lifting mechanism : https://www.bunnings.com.au/metal-mate-12mm-1m-aluminium-round-solid_p0427752
+
+# material access
+- 3d printing materials
+- sheet metal
+- wood
+- 
 
 # client letter:
 
