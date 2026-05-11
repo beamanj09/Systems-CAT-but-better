@@ -15,6 +15,7 @@ constraints:
 - safety standards (not kill a person, not damage anyothers equipment like a EMP)
 - deadline: unsure
 - resorces: workshop storage / buying equipment/materials
+- 3D printer bed sizes
 
 considerations:
 - something that damages the opponents bots and makes sure its out of service
@@ -36,7 +37,8 @@ win the compertition
 
 # part list
 - bareings x4 : https://www.totaltools.com.au/60585-econocut-12-7mm-od-4-8mm-id-router-bit-ball-bearing-eyb-4
-- wheels x2
+- wheels x5
+- spinny office wheels x2
 - motors for wheels x2 : 12,000 rpm motors from storage
 - motors for lifting mechanism x4 12,000 : rpm motor from storage
 - batteries
@@ -46,16 +48,16 @@ win the compertition
 - 3d printing materials
 - sheet metal
 - wood
+- metal that can be bought from metal stores (that myself and my group members can get)
 - 
 
 # client letter:
 
 # evaluation letter:
 
-# current design for the bot:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5e1aa11-7946-448c-83da-d105fa1f38f8" />
-whats inside in the blue circle is the MRB (main rotational block), next to the MRB is what it would look like, there is a chance that it will be changed to a difrent design with the movement design also. im not sure on how i want it to look, the spinning mechanic that connnects to the MRB, because the one that i drew in the image above is to go around the bot, i might have a look on how i want to change the new design too.
-
+# current design for the bot (CURRENTLY BEING CHANGED):
+<img width="1920" height="1080" alt="WIN_20260511_11_27_26_Pro" src="https://github.com/user-attachments/assets/a52e5394-af9d-4a24-90df-5aa74b320b32" />
+so, design has been changed, went from a spinny design to now a ramming design since the spinning needs a couple of safety procedures (e.g. a shut down/quick release), so the blue is the wheels, the square ones are for one direction, the circle one are for the spinny wheels (e.g. office chair wheel), green are motors, red are bareings. there is a middle wheel that could be geared up for more speed, but for the turning, there will be either a solinoid or a servo motor to lift the middle wheel so the turning wont be obstructed, i dont know how the turning would be since there are no turning mechanisms so i might need something to fix that or figure it out
 
 # previous designs for a old design for a bot
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b4e5b8cd-f480-42aa-95d6-99a12996a98c" />
@@ -69,3 +71,6 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 there are two DC motors for the movement of the robot, there are again two bareing for the movement to minimise friction / any forces that will affect the movement. the movement (dc motors) will connect to the main motor board so i am able to connect movement to where, go left - left DC motor goes backward - right DC motor goes forward - like how a tank moves
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9670e1d2-f877-446f-89a7-074388ba6c61" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5e1aa11-7946-448c-83da-d105fa1f38f8" />
+whats inside in the blue circle is the MRB (main rotational block), next to the MRB is what it would look like, there is a chance that it will be changed to a difrent design with the movement design also. im not sure on how i want it to look, the spinning mechanic that connnects to the MRB, because the one that i drew in the image above is to go around the bot, i might have a look on how i want to change the new design too.
