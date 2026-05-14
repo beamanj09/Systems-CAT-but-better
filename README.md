@@ -4,6 +4,8 @@ systems cat but better
 group mates: Jaxon Beaman , Chase Turner (Zia) , Cameron Wregg , Jake Burch
 this is for my Systems CAT (but better), im not exactly sure if i can use Github as my portfolio, but this is for progress log currently
 
+# 
+
 # Parameters in consideration
 - material access (part list and material access sections)
 - constraints and considerations
@@ -19,7 +21,7 @@ constraints:
 
 considerations:
 - something that damages the opponents bots and makes sure its out of service
-win the compertition
+- win the compertition
 
 # milestones
 - made bot idea list (commencement)
